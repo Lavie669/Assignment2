@@ -948,3 +948,13 @@
 2021-02-01 23:58:01 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
 2021-02-01 23:58:01 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
 2021-02-01 23:58:24 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-02-02 23:21:52 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-02 23:21:52 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-02 23:21:52 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-02 23:21:52 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-02 23:21:52 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-02 23:21:52 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-02 23:21:52 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-02 23:21:52 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-02 23:21:52 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-02-02 23:21:54 DEBUG Config - Config.get(main, version) = 1.0.0 (test)
